@@ -22,7 +22,10 @@ $env:GEMINI_API_KEY="You_API_KEY"
 ```powershell
 ./start.bat
 ```
-## Authors
+### ScreenShots:
+<img width="1365" height="765" alt="2026-08-01_00-34" src="https://github.com/user-attachments/assets/2245f4ef-7ef4-4e97-b1d8-ded623df281e" />
+
+#### Authors
 
 - [@saqibvow](https://github.com/saqibvow)
 - [@EmadFahim134](https://github.com/EmadFahim134)
