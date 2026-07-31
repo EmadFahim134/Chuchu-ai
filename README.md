@@ -11,16 +11,10 @@ A fast & Smol Ai interface And Custom Ai
 ```powershell
 uv sync
 ```
-- After that run the **./start.bat** on the directory insuring you pasted your google **API key** on the powershell, like this:
-
+- After that run the **./start.ps1** on the directory insuring you pasted your google **API key** on the powershell, like this:
+- 
 ```powershell
-$env:GEMINI_API_KEY="You_API_KEY"
-```
-
-- Lastly run the:
-
-```powershell
-./start.bat
+./start.ps1
 ```
 ### ScreenShots:
 <img width="1365" height="765" alt="2026-08-01_00-34" src="https://github.com/user-attachments/assets/2245f4ef-7ef4-4e97-b1d8-ded623df281e" />
