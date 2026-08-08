@@ -31,3 +31,7 @@ uv sync
 
 - [@saqibvow](https://github.com/saqibvow)
 - [@EmadFahim134](https://github.com/EmadFahim134)
+
+##### IMPORTANT ⚠️ :
+
+**THIS REPOSITORY IS NOW ARCHIVED NOW IT WILL BE SHIFTED TO "https:github.com/EmadFahim134/Veil"**
